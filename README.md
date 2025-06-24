@@ -38,14 +38,12 @@ Here are some ideas to get you started:
 - 🤝 Open to collaborating on **Web Development projects**  
 - 📬 Reach me at: **codewithlokeshx@gmail.com**
 
----
-
 🕵️‍♂️ **Explore my repositories** and feel free to connect — let’s build something amazing together!
-### Connect with me
-<hr/>
 
 
-<!-- <img width="26" src=""> -->
+
+<br>
+<h3 align="left">Connect with me</h3>
 
 [![Leetcode Badge](https://img.shields.io/badge/-lokeshsingh07-E4405F?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/lokeshsingh07)
 [![Linkedin Badge](https://img.shields.io/badge/-lokeshsingh07-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshsingh07)
@@ -54,10 +52,8 @@ Here are some ideas to get you started:
 <br>
 
 
-
-### Languages & Technologies  
-<hr/>
-
+ 
+<h3 align="left">Languages & Technologies</h3>
 <!-- Programming Languages -->
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
@@ -87,10 +83,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
-### Tools & Softwares
 
-<hr/>
 
+
+<h3 align="left">Tools & Softwares</h3>
 <img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
 <img align="left" alt="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
@@ -112,9 +108,8 @@ Here are some ideas to get you started:
 </p>
 
 
-<br><br>
+<br>
 
-<hr/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
