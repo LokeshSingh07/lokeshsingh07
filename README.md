@@ -16,7 +16,7 @@
 <!-- Typing animation -->
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Backend-Focused+FullStack+Developer;6+Months+Production+Experience;Building+Scalable+Backend+Systems.)](https://git.io/typing-svg)
 
 </p>
 
