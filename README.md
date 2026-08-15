@@ -14,9 +14,11 @@
 
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome To My Github Profile;Backend-Focused Full Stack Developer;6+ Months Production Experience;Node.js + AWS;Building Scalable Backend Systems;" alt="Typing SVG" />
-</a>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+
+</p>
 
 </div>
 
